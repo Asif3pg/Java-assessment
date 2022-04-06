@@ -19,7 +19,7 @@ public static WebDriver browsersetup(WebDriver driver , String browser, String A
 
 	{
 	//System.setProperty("webdriver.chrome.driver", "C:\\Users\\asif.ali\\Desktop\\Chromeexe\\chromedriver.exe");
-		System.setProperty("webdriver.chrome.driver", "./Drivers/chromedriver.exe");
+	  System.setProperty("webdriver.chrome.driver", "./Drivers/chromedriver.exe");
 
 		driver = new ChromeDriver();	
 
