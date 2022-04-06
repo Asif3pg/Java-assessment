@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21830" started-at="2022-04-06T15:05:56 IST" finished-at="2022-04-06T15:06:18 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21830" started-at="2022-04-06T15:05:56 IST" finished-at="2022-04-06T15:06:18 IST">
+      <class name="Auto.Testcases.BooksLandingtestpage">
+        <test-method status="PASS" signature="browsersetup()[pri:0, instance:Auto.Testcases.BooksLandingtestpage@16e2f39]" name="browsersetup" is-config="true" duration-ms="12033" started-at="2022-04-06T15:05:56 IST" finished-at="2022-04-06T15:06:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method status="PASS" signature="screenshort()[pri:0, instance:Auto.Testcases.BooksLandingtestpage@16e2f39]" name="screenshort" duration-ms="8965" started-at="2022-04-06T15:06:08 IST" finished-at="2022-04-06T15:06:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshort -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:Auto.Testcases.BooksLandingtestpage@16e2f39]" name="Teardown" is-config="true" duration-ms="787" started-at="2022-04-06T15:06:17 IST" finished-at="2022-04-06T15:06:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Auto.Testcases.BooksLandingtestpage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
